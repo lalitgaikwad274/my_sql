@@ -17,6 +17,7 @@ exec the container
 
 ## Run Locally
 Run the conatiner using docker-conpose
+
 Go to the folder and run
 ```bash
   sudo docker-compose up -d
