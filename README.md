@@ -2,4 +2,5 @@
 
 It will create studentData databse with student schema in mysql.
 
-Run sudo docker run -itd my_sql:1
+RUN sudo docker run -itd my_sql:1
+RUN sudo docker exec -it container_ID bash
