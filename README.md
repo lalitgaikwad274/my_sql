@@ -24,6 +24,7 @@ Go to the folder and run
 OR
 
 Run using DockerFile
+
 Clone the project
 
 ```bash
