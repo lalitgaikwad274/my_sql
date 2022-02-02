@@ -16,7 +16,7 @@ run the docker image
 exec the container
 
 ## Run Locally
-Run the conatiner using docker-conpose
+Run the conatiner using docker-compose
 
 Go to the folder and run
 ```bash
